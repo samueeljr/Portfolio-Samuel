@@ -21,9 +21,9 @@
 
 Este é o meu portfólio pessoal: um site de página única que reúne quem eu sou, o que sei fazer, os projetos que desenvolvi e minha trajetória profissional e de estudos.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Tecnologia da Informação**, com base em suporte técnico e programação, e busco **estágio, vaga júnior ou jovem aprendiz em TI**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Tecnologia da Informação**, com base em suporte técnico e programação.
 
-🔗 **Acesse:** [samueeljr.github.io/Portfolio-Samuel](https://samueeljr.github.io/Portfolio-Samuel/)
+ **Acesse:** [samueeljr.github.io/Portfolio-Samuel](https://samueeljr.github.io/Portfolio-Samuel/)
 
 ---
 
